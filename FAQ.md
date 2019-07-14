@@ -44,6 +44,13 @@ Le certificazioni sono un mezzo efficace tramite il quale un'azienda può dimost
 
 In ogni caso, dato che le certificazioni, come detto, sono strumenti aziendali, dovrebbe essere l'azienda a preoccuparsi di certificare i propri dipendenti. Come hai potuto leggere su, sono rari i casi in cui valga davvero la pena investire in una certificazione, e non sempre portano al risultato ottenuto.
 
+### Come utilizzo tool X per fare y?
+
+Questa domanda infrange già la regola #1 ma ci teniamo a spendere due parole in più sull'argomento. 
+
+I tools sono fatti per automatizzare operazioni che a volte possono risultare tediose e complesse, questo non esula l'utilizzatore dal conoscere i concetti sui quali si basa e la logica dietro di esso. Inoltre solitamente la maggiorparte dei software largamente utilizzati posseggono un manuale che è fortemente consigliato leggere (e capire) prima di porre qualsiasi domanda.
+
+
 ## Lista libri e risorse consigliate divisi per categoria
 
 ### Crypto
@@ -65,9 +72,12 @@ In ogni caso, dato che le certificazioni, come detto, sono strumenti aziendali, 
 - Assembly
   - [Practical Reverse Engineering](https://www.amazon.it/Practical-Reverse-Engineering-Reversing-Obfuscation-ebook/dp/B00IA22R2Y/)
   - [Modern Assembly Language Programming with the ARM Processor](https://www.amazon.it/Modern-Assembly-Language-Programming-Processor/dp/0128036982/)
-- [Rust](https://doc.rust-lang.org/book/)
-- [Effective Go](https://golang.org/doc/effective_go.html)
-- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+- Rust
+  - [Rust Book](https://doc.rust-lang.org/book/)
+- Golang
+  - [Effective Go](https://golang.org/doc/effective_go.html)
+- Python
+  - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 
 ### Networking
 
@@ -89,7 +99,7 @@ In ogni caso, dato che le certificazioni, come detto, sono strumenti aziendali, 
 
 - [phrack](https://www.phrack.org)
 - [PoC || GTFO](https://nostarch.com/gtfo)
-- [PoC || GTFO 2]((https://nostarch.com/gtfo2)
+- [PoC || GTFO 2](https://nostarch.com/gtfo2)
 - [The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/)
 - [The paradox of choice](http://azeria-labs.com/downloads/Paradox-Of-Choice_Azeria.pdf)
 
